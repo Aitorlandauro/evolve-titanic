@@ -2,4 +2,5 @@
 
 ## Acerca de este proyecto
 
-Hemos añadido x
+Hemos añadido x 
+aporto mas documentacion
