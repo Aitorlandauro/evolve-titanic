@@ -3,4 +3,4 @@
 ## Acerca de este proyecto
 
 Hemos añadido x 
-aporto mas documentacion
+aporto mas documentacion del proyecto
