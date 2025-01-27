@@ -2,4 +2,6 @@
 
 ## Acerca de este proyecto
 
-Hemos añadido x
+## COLABORACION MIGUEL PERFETTI
+
+Este proyecto se desarrolla hoy lunes 27 de enero
